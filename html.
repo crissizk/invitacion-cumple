@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Invitación</title>
+<style>
+body{font-family:Arial,sans-serif;background:#ffe3ec;text-align:center;padding:40px 20px}
+.tarjeta{background:white;max-width:400px;margin:auto;padding:30px;border-radius:20px;box-shadow:0 4px 15px rgba(0,0,0,.2)}
+h1{color:#d6336c}
+</style>
+</head>
+<body>
+<div class="tarjeta">
+<h1>🎉 ¡Estás invitado! 🎂</h1>
+<p>Te invito a celebrar mi cumpleaños</p>
+<h2>Ana Criss</h2>
+<p>📅 Fecha: 00 de mes</p>
+<p>🕕 Hora: 6:00 p.m.</p>
+<p>📍 Lugar: La Ramona</p>
+<p>¡Te espero! 🥳</p>
+</div>
+</body>
+</html>
