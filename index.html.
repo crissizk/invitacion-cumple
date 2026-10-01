@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Mi cumpleaños</title>
+  <style>
+    body {
+      background-color: pink;
+      text-align: center;
+      font-family: Arial;
+      padding: 50px;
+      color: #a12c60;
+    }
+    h1 {
+      font-size: 40px;
+    }
+  </style>
+</head>
+<body>
+  <h1>🎀 ¡Estás invitado! 🎀</h1>
+  <h2>Mi cumpleaños 🎂</h2>
+  <p>¡Te espero para celebrar conmigo!</p>
+  <p>📅 Fecha: Mi cumpleaños</p>
+  <p>🕒 Hora: 4:00 p. m.</p>
+  <p>💗 ¡No faltes!</p>
+</body>
+</html>
